@@ -1,0 +1,2158 @@
+{
+    "status": "ok",
+    "message": [
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "483",
+            "PathProjectServer": "",
+            "Nombre": "Señalización",
+            "Descripcion": "Señalización demostración.",
+            "CodigoCliente": "UEE",
+            "CodigoContratista": "",
+            "Users": [
+                "60181887a72166d86aea218c",
+                "606f3a2e74459a95cd5799e5",
+                "60e709735e360463b1ed1140",
+                "60f04faa5e360463b1ed1535",
+                "606f251e74459a95cd5799b8",
+                "60901feca27b42d4cd87386d",
+                "61f26b7c1d767e209454de5a",
+                "612c8fea695b2b753d91705c"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "01_FGV_IDENT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "02_FGV_MEDICIONES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "03_FGV_PROYECTO",
+                    "HtmlElement": "",
+                    "Visible": false
+                },
+                {
+                    "Param": "04_FGV_RAMS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "05_FGV_OBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "06_FGV_CALIDAD",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "07_FGV_AS BUILT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "09_FGV_MANT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "10_FGV_MONITORIZACION",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "11_UEE_GESTION",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [
+                "60f7fc7f5e360463b1ed2b26",
+                "60f805f11b0ad38cfa59c2aa"
+            ],
+            "Id": "601818eea72166d86aea2191",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "526",
+            "PathProjectServer": "",
+            "Nombre": "BEEP-IVE",
+            "Descripcion": "Edificio de rehabilitación.",
+            "CodigoCliente": "IVE",
+            "CodigoContratista": "",
+            "Users": [
+                "60227c1b8049c84725f4f035",
+                "602540b38049c84725f4f056",
+                "602a8a3b1a2e811aeee61f59",
+                "606f3a2e74459a95cd5799e5",
+                "60e709735e360463b1ed1140",
+                "60901feca27b42d4cd87386d"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "BEEP-IVE",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787",
+                "60819b8ea23cb2000460f77b",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "60227c5c8049c84725f4f039",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "434_CL_CIS_TER_FGV-L10-ElectrificacionAlicanteNazaret",
+            "PathProjectServer": "",
+            "Nombre": "L10-ElectrificacionAlicanteNazaret",
+            "Descripcion": "L10-ElectrificacionAlicanteNazaret",
+            "CodigoCliente": "FGV",
+            "CodigoContratista": "Cobra",
+            "Users": [
+                "605cc1a9f63e609c14d353a6",
+                "606f251e74459a95cd5799b8",
+                "602a8a3b1a2e811aeee61f59",
+                "60acd7058a413ee4673e6d4e",
+                "606f3a2e74459a95cd5799e5",
+                "60b0ce4d8a413ee4673e7386",
+                "60b906f27d57ec263d21c43b",
+                "60bf48dca305671ddfd0a6f3",
+                "60e709735e360463b1ed1140",
+                "60901feca27b42d4cd87386d",
+                "60181887a72166d86aea218c",
+                "61309f54695b2b753d917e62",
+                "618d0b7d1c482efb4ba9f1eb",
+                "61e693aad10cac20f47e697b",
+                "61f26b7c1d767e209454de5a",
+                "612c8fea695b2b753d91705c"
+            ],
+            "PathLogos": [
+                "logo_cobra.png"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "01_FGV_IDENT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "02_FGV_MEDICIONES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "05_FGV_OBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "08_FGV_SAP",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "11_COBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "605cc245f63e609c14d353a8",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "00_Demo",
+            "PathProjectServer": "",
+            "Nombre": "Demo_Proyectos",
+            "Descripcion": "Proyecto que alberga solo demostraciones",
+            "CodigoCliente": "Ibim",
+            "CodigoContratista": "Ibim",
+            "Users": [
+                "606f251e74459a95cd5799b8",
+                "602a8a3b1a2e811aeee61f59",
+                "602540b38049c84725f4f056",
+                "606f3a2e74459a95cd5799e5",
+                "60e709735e360463b1ed1140",
+                "612c8fea695b2b753d91705c",
+                "60901feca27b42d4cd87386d"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f784",
+                "60819b8ea23cb2000460f787",
+                "60819b8ea23cb2000460f78a",
+                "60c9b91edc124c5bc0eb603d",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "606f299974459a95cd5799c2",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "474 COPCISA",
+            "PathProjectServer": "",
+            "Nombre": "Pruebas COPCISA",
+            "Descripcion": "Proyecto de prueba de COPCISA - UCV",
+            "CodigoCliente": "COPCISA",
+            "CodigoContratista": "COPCISA",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "60181887a72166d86aea218c",
+                "606f251e74459a95cd5799b8",
+                "60a3dc8c9468dad46dffa014",
+                "605cc1a9f63e609c14d353a6",
+                "60e709735e360463b1ed1140"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "01_FGV_IDENT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "02_FGV_MEDICIONES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "05_FGV_OBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "06_FGV_CALIDAD",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "11_UCV",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781"
+            ],
+            "TablesIfcIds": [],
+            "Id": "607eaf0c105ea4049d6acc5f",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "596",
+            "PathProjectServer": "",
+            "Nombre": "596_CS_TMG_MTB_ImplantaciónBIM",
+            "Descripcion": "Implantacion BIM",
+            "CodigoCliente": "TMG",
+            "CodigoContratista": "",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "606f3a2e74459a95cd5799e5",
+                "602540b38049c84725f4f056",
+                "606f251e74459a95cd5799b8"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "TM_Espacios",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "BaseQuantities",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [
+                "615599639d65652beb40d66f"
+            ],
+            "Id": "60815dc7105ea4049d6accb6",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "19-132-L1",
+            "PathProjectServer": "",
+            "Nombre": "PROYECTO SEÑALIZACIÓN, ATP Y SAE-CT PARA LA LÍNEA 10 DE METROVALENCIA",
+            "Descripcion": "PROYECTO SEÑALIZACIÓN, ATP Y SAE-CT PARA LA LÍNEA 10 DE METROVALENCIA",
+            "CodigoCliente": "FGV",
+            "CodigoContratista": "UEE",
+            "Users": [
+                "60181887a72166d86aea218c",
+                "602a8a3b1a2e811aeee61f59",
+                "602540b38049c84725f4f056",
+                "608bd503a27b42d4cd87367e",
+                "608bd527a27b42d4cd87367f",
+                "606f3a2e74459a95cd5799e5",
+                "60901feca27b42d4cd87386d",
+                "60f04faa5e360463b1ed1535",
+                "606f251e74459a95cd5799b8"
+            ],
+            "PathLogos": [
+                "logo_enyse_electrans.jpg"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "01_FGV_IDENT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "02_FGV_MEDICIONES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "03_FGV_PROYECTO",
+                    "HtmlElement": "",
+                    "Visible": false
+                },
+                {
+                    "Param": "04_FGV_RAMS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "05_FGV_OBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "06_FGV_CALIDAD",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "07_FGV_AS BUILT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "09_FGV_MANT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "10_FGV_MONITORIZACION",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "11_UEE_GESTION",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "608ab75aa27b42d4cd8735a0",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "518",
+            "PathProjectServer": "",
+            "Nombre": "518_CL_VRS_TER_RemodelaciónPalmaretFGV",
+            "Descripcion": "518_CL_VRS_TER_RemodelaciónPalmaretFGV",
+            "CodigoCliente": "FGV",
+            "CodigoContratista": "VAR",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "602a8a3b1a2e811aeee61f59",
+                "60181887a72166d86aea218c",
+                "602540b38049c84725f4f056",
+                "60901feca27b42d4cd87386d",
+                "606f251e74459a95cd5799b8",
+                "60e709735e360463b1ed1140",
+                "61f26b7c1d767e209454de5a",
+                "612c8fea695b2b753d91705c"
+            ],
+            "PathLogos": [
+                "logo_vareser.png"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f769",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "60901a4fa27b42d4cd87382b",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "602",
+            "PathProjectServer": "",
+            "Nombre": "602_CL_BVA_HIS_HBIMcastilloXivert",
+            "Descripcion": "Asistencia técnica redacción Plan Director conservación y uso público Castillo de Xivert",
+            "CodigoCliente": "DIP-CASTELLON",
+            "CodigoContratista": "BVA",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "606f3a2e74459a95cd5799e5",
+                "602540b38049c84725f4f056",
+                "60901feca27b42d4cd87386d",
+                "60227c1b8049c84725f4f035",
+                "609bc35083200906c3bc4c9d",
+                "612c8fea695b2b753d91705c",
+                "60e709735e360463b1ed1140",
+                "61f26b7c1d767e209454de5a",
+                "61fd0f151d767e209454eff3"
+            ],
+            "PathLogos": [
+                "logo-diputacion-castellon-2018.jpg",
+                "logo-ute-ibim-balaguer.jpg"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "D_DOCUMENTO DE DIAGNÓSTICO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "E_DOCUMENTACIÓN Y ESTUDIOS PREVIOS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.DC_DEPARTAMENTOS DEL CASTILLO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.EC_ESTUDIO ESTRATIGRÁFICO-CONSTRUCTIVO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.EL_ELEMENTOS QUE COMPONEN EL CASTILLO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.ES_ESTUDIO ESTRUCTURAL",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.MA_MATERIALES Y TÉCNICAS CONSTRUCTIVAS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.MN_ESTUDIO DE MANTENIMIENTO Y MECANISMOS DE CONSERVACIÓN",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.PA_ESTUDIO DE PATOLOGÍAS CONSTRUCTIVAS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.RC_RECINTOS DEL CASTILLO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA.RS_RECURSOS SINGULARES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EA_ESTUDIO ARQUITECTÓNICO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EE_ESTUDIO DEL ENTORNO NATURAL",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EG.AR_ACTIVIDADES RECREATIVAS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EG.CL_CLIMA DESDE LA PERSPECTIVA TURÍSTICA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EG.DT_DEMANDA TURÍSTICA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EG.ER_EQUIPAMIENTOS RECREATIVOS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EG.PI_PATRIMONIO INTANGIBLE",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EG_ESTUDIO DE LA GESTIÓN ACTUAL DEL MONUMENTO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EH_ESTUDIO HISTÓRICO DOCUMENTAL",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EI_INTRODUCCIÓN",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EN_ESTUDIO DE NORMATIVAS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "EQ_ESTUDIO ARQUEOLÓGICO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ER_ESTUDIO HISTÓRICO ARTÍSTICO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET.AC_ACOMETIDAS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET.CD_CONSTRUCCIONES DEFENSIVAS RELACIONADAS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET.CO_COMUNICACIONES VIALES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET.CV_CUENCAS VISUALES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET.PA_PAISAJE",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET.PE_POBLACIONES EMISORAS DE DEMANDA TURÍSTICA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET.PS_PRESTATARIOS DE SERVICIOS",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "ET_ESTUDIO DE RELACIONES TERRITORIALES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "P_PLANES DE ACTUACIÓN",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "PC_CRONOGRAMA VALORADO DE ACTUACIONES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "PC_PLAN DE CONSERVACIÓN Y CONSOLIDACIÓN",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "PE_PLAN DE ADECUACIÓN DEL ENTORNO",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "PP_PLAN DE PARTICIPACIÓN CIUDADANA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "PU_PLAN DE USO PÚBLICO Y GESTIÓN TURÍSTICA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "S_DOCUMENTO DE SÍNTESIS",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "6092446ba27b42d4cd8738ff",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "613",
+            "PathProjectServer": "",
+            "Nombre": "613_CL_CVI_IND_EstadoActualNaveLartec",
+            "Descripcion": "613_CL_CVI_IND_EstadoActualNaveLartec",
+            "CodigoCliente": "CVI",
+            "CodigoContratista": "CVI",
+            "Users": [
+                "602540b38049c84725f4f056",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "606f3a2e74459a95cd5799e5",
+                "612c8fea695b2b753d91705c",
+                "61dfe8b71a151ca691bd9719",
+                "61dfe9a31a151ca691bd9762"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "609bfa855f242e697b5a8ad3",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "434_Borrador",
+            "PathProjectServer": "",
+            "Nombre": "434_ElectrificaciónAlicanteNazaret_Borrador",
+            "Descripcion": "434_ElectrificaciónAlicanteNazaret_Borrador",
+            "CodigoCliente": "Cobra",
+            "CodigoContratista": "FGV",
+            "Users": [
+                "605cc1a9f63e609c14d353a6",
+                "60acd7058a413ee4673e6d4e",
+                "606f3a2e74459a95cd5799e5",
+                "60181887a72166d86aea218c",
+                "61309f54695b2b753d917e62",
+                "60b906f27d57ec263d21c43b",
+                "60bf48dca305671ddfd0a6f3",
+                "618d0b7d1c482efb4ba9f1eb"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "01_FGV_IDENT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "02_FGV_MEDICIONES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "05_FGV_OBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "08_FGV_SAP",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "11_COBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787"
+            ],
+            "TablesIfcIds": [],
+            "Id": "60aca04d8a413ee4673e6c92",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "546_ImplantaciónBIM_DGIEC",
+            "PathProjectServer": "",
+            "Nombre": "546_IM_GVA_MBM_ImplantaciónBIM_DirecciónGeneralDeInnovaciónEcològicaEnLaConstrucción",
+            "Descripcion": "Implantación BIM en la DGIEC",
+            "CodigoCliente": "GVA",
+            "CodigoContratista": "GVA",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "60b734be8a413ee4673e75f8",
+                "606f3a2e74459a95cd5799e5",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "613f67fbe13a362eaf6d951d",
+                "613f68a9e13a362eaf6d9520"
+            ],
+            "PathLogos": [
+                "DGIEC.png"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "GVA_Certificaciones",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_ControlCalidad",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Localizacion",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosArquitectonicos",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosGenerales",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosUrbanisticos",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Estructura",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_IPAGE",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Lesiones",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mantenimiento",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_SistemasConstructivosMateriales",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mediciones",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_MedioAmbiente",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Normativa",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_4DSimulaciones",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [
+                "60f858b25e360463b1ed2d2e"
+            ],
+            "Id": "60b7357e8a413ee4673e75fa",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "00_Pruebas_jmr",
+            "PathProjectServer": "",
+            "Nombre": "00_Pruebas_jmr",
+            "Descripcion": "Proyecto para entregas temporales o de prueba",
+            "CodigoCliente": "CCC",
+            "CodigoContratista": "CCC",
+            "Users": [
+                "606f3a2e74459a95cd5799e5"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f784",
+                "60819b8ea23cb2000460f787",
+                "60819b8ea23cb2000460f78a",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "60bdf287a305671ddfd085aa",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "582",
+            "PathProjectServer": "",
+            "Nombre": "ImplantaciónBIMConsorcioGranviaHospitalet",
+            "Descripcion": "582_CS_CRG_TER_ImplantaciónBIMConsorcioGranviaHospitalet",
+            "CodigoCliente": "CRG",
+            "CodigoContratista": "CRG",
+            "Users": [
+                "602540b38049c84725f4f056",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "606f3a2e74459a95cd5799e5",
+                "60e709735e360463b1ed1140",
+                "61a737c11c482efb4baa1c95",
+                "61a737ee1c482efb4baa1c96",
+                "61a73a291c482efb4baa1cc5",
+                "61a73a491c482efb4baa1cc6"
+            ],
+            "PathLogos": [
+                "cropped-Logocv_2.jpg"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "CRGV_PropietatsGenerals",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "CRGV_Prestacions",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "CRGV_Identificacio",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "CRGV_Geometria",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "CRGV_DRENATGE",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "CRGV-Localitzacio",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [
+                "61ae2acc1c482efb4baa22c0",
+                "61ae2b511c482efb4baa22c5",
+                "61ae4c921c482efb4baa2382"
+            ],
+            "Id": "60c05f74d64248a3fa38b468",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "319",
+            "PathProjectServer": "",
+            "Nombre": "319_CL_FCC_TER_FGVrampaCT",
+            "Descripcion": "FGV - FCC - Rampa",
+            "CodigoCliente": "FCC",
+            "CodigoContratista": "FGV",
+            "Users": [
+                "606f251e74459a95cd5799b8",
+                "602a8a3b1a2e811aeee61f59",
+                "606f3a2e74459a95cd5799e5",
+                "60e709735e360463b1ed1140",
+                "61f26b7c1d767e209454de5a",
+                "612c8fea695b2b753d91705c"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "FGV_SAP",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "60c9b91edc124c5bc0eb603d",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "60c21202ac69a5525418bae2",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "527_prueba",
+            "PathProjectServer": "",
+            "Nombre": "527_prueba",
+            "Descripcion": "Modelado de la estación de tren de Teulada y Luceros",
+            "CodigoCliente": "FGV",
+            "CodigoContratista": "FGV",
+            "Users": [
+                "612c8fea695b2b753d91705c",
+                "606f251e74459a95cd5799b8",
+                "602a8a3b1a2e811aeee61f59",
+                "602540b38049c84725f4f056",
+                "606f3a2e74459a95cd5799e5",
+                "60e709735e360463b1ed1140"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "612c90bf695b2b753d91705e",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "619",
+            "PathProjectServer": "",
+            "Nombre": "619_TIC_ABA",
+            "Descripcion": "Creació i gestió de models BIM de la xarxa TIC (Aj. Barcelona)",
+            "CodigoCliente": "TIC_ABA",
+            "CodigoContratista": "TIC_ABA",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "61362672695b2b753d917fd0"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "AjB-TC-Obra_Civil",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "AjB-TC-Obra_Mecanica",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "609bea2f324c62523c5b22bb",
+                "60819b8ea23cb2000460f766"
+            ],
+            "TablesIfcIds": [],
+            "Id": "6138b898695b2b753d9181dd",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "645_UDT_ConexionPeatonal_Alicante-Xativa_FGV-L10",
+            "PathProjectServer": "",
+            "Nombre": "ConexionPeatonal_Alicante-Xativa_FGV-L10",
+            "Descripcion": "ConexionPeatonal_Alicante-Xativa_FGV-L10",
+            "CodigoCliente": "FGV",
+            "CodigoContratista": "UDT",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "606f3a2e74459a95cd5799e5",
+                "60901feca27b42d4cd87386d",
+                "60e709735e360463b1ed1140",
+                "61f26b7c1d767e209454de5a",
+                "612c8fea695b2b753d91705c"
+            ],
+            "PathLogos": [
+                "logo-dragados-geocisa.png"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "613b81374555d2d6ebc7968a",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "546_DGIEC_Valencia",
+            "PathProjectServer": "",
+            "Nombre": "DGIEC CMAYOR_2020_04Y02_18 Valencia",
+            "Descripcion": "Proyecto Piloto Valencia",
+            "CodigoCliente": "GVA",
+            "CodigoContratista": "GVA",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "60b734be8a413ee4673e75f8",
+                "606f3a2e74459a95cd5799e5",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "60e709735e360463b1ed1140",
+                "60901feca27b42d4cd87386d",
+                "613f67fbe13a362eaf6d951d",
+                "613f68a9e13a362eaf6d9520",
+                "613f6920e13a362eaf6d9521",
+                "613f695ce13a362eaf6d9522",
+                "613f6a3be13a362eaf6d9523",
+                "613f6f1fe13a362eaf6d95a7",
+                "613f6f4fe13a362eaf6d95a8",
+                "616820f065486b2631045f0a",
+                "620f6853c855b5a96c717abd"
+            ],
+            "PathLogos": [
+                "DGIEC.png"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "GVA_4DSimulaciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CERMA",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_HE",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_HS",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_SI",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_SUA",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Certificaciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_ControlCalidad",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DC09",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosArquitectonicos",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosGenerales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosUrbanisticos",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Estructura",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_GES_RES",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_GuiaVerde",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_IPAGE",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Lesiones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Localizacion",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mantenimiento",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mediciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_MedioAmbiente",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Normativa",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_SistemasConstructivosMateriales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_PasaporteMateriales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [
+                "60f858b25e360463b1ed2d2e"
+            ],
+            "Id": "613f5adf57d93547a0c8d120",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "546_DGIEC_Castellón",
+            "PathProjectServer": "",
+            "Nombre": "DGIEC CMAYOR_2020_04Y02_20 Castellón",
+            "Descripcion": "Proyecto Piloto Castellón",
+            "CodigoCliente": "GVA",
+            "CodigoContratista": "GVA",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "60b734be8a413ee4673e75f8",
+                "606f3a2e74459a95cd5799e5",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "60e709735e360463b1ed1140",
+                "60901feca27b42d4cd87386d",
+                "613f67fbe13a362eaf6d951d",
+                "613f68a9e13a362eaf6d9520",
+                "613f7207e13a362eaf6d95b6",
+                "613f71b3e13a362eaf6d95b4",
+                "613f7230e13a362eaf6d95b7",
+                "613f71d5e13a362eaf6d95b5",
+                "613f6f1fe13a362eaf6d95a7",
+                "613f6f4fe13a362eaf6d95a8",
+                "613f7256e13a362eaf6d95bc",
+                "613f7150e13a362eaf6d95b2",
+                "613f7104e13a362eaf6d95b0",
+                "613f7129e13a362eaf6d95b1",
+                "613f70e0e13a362eaf6d95af",
+                "613f6f95e13a362eaf6d95a9",
+                "613f6ff5e13a362eaf6d95ab",
+                "613f6fd0e13a362eaf6d95aa",
+                "613f7076e13a362eaf6d95ad",
+                "613f7052e13a362eaf6d95ac",
+                "613f727ce13a362eaf6d95bd",
+                "613f70aae13a362eaf6d95ae",
+                "613f7181e13a362eaf6d95b3",
+                "616820f065486b2631045f0a",
+                "620f6853c855b5a96c717abd"
+            ],
+            "PathLogos": [
+                "DGIEC.png"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "GVA_4DSimulaciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CERMA",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_HE",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_HS",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_SI",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_SUA",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Certificaciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_ControlCalidad",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DC09",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosArquitectonicos",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosGenerales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosUrbanisticos",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Estructura",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_GES_RES",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_GuiaVerde",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_IPAGE",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Lesiones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Localizacion",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mantenimiento",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mediciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_MedioAmbiente",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Normativa",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_SistemasConstructivosMateriales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_PasaporteMateriales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [
+                "60f858b25e360463b1ed2d2e",
+                "615ab59a65486b2631045677",
+                "617bebbbc511fb16140d1ca9"
+            ],
+            "Id": "613f5b1457d93547a0c8d121",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "546_DGIEC_Alicante",
+            "PathProjectServer": "",
+            "Nombre": "DGIEC CMAYOR_2020_04Y02_19 Alicante",
+            "Descripcion": "Proyecto Piloto Alicante",
+            "CodigoCliente": "GVA",
+            "CodigoContratista": "GVA",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "60b734be8a413ee4673e75f8",
+                "606f3a2e74459a95cd5799e5",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "60e709735e360463b1ed1140",
+                "60901feca27b42d4cd87386d",
+                "613f67fbe13a362eaf6d951d",
+                "613f68a9e13a362eaf6d9520",
+                "613f6f1fe13a362eaf6d95a7",
+                "613f6f4fe13a362eaf6d95a8",
+                "616820f065486b2631045f0a",
+                "61b783f51c482efb4baa28e3",
+                "61b7842f1c482efb4baa28e4",
+                "61b784871c482efb4baa28e6",
+                "61b7845d1c482efb4baa28e5",
+                "61b8abba1c482efb4baa2a92",
+                "61b8ab021c482efb4baa2a8d",
+                "61b8ab251c482efb4baa2a8e",
+                "61b8ac531c482efb4baa2a94",
+                "61b8aba21c482efb4baa2a91",
+                "61b8ab821c482efb4baa2a90",
+                "61b8ab631c482efb4baa2a8f",
+                "61b8abd81c482efb4baa2a93",
+                "620f6853c855b5a96c717abd"
+            ],
+            "PathLogos": [
+                "DGIEC.png"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "GVA_4DSimulaciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CERMA",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_HE",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_HS",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_SI",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_CTE_SUA",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Certificaciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_ControlCalidad",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DC09",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosArquitectonicos",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosGenerales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_DatosUrbanisticos",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Estructura",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_GES_RES",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_GuiaVerde",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_IPAGE",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Lesiones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Localizacion",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mantenimiento",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Mediciones",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_MedioAmbiente",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_Normativa",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_SistemasConstructivosMateriales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                },
+                {
+                    "Param": "GVA_PasaporteMateriales",
+                    "HtmlElement": " ",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [
+                "60f858b25e360463b1ed2d2e",
+                "62209b65534a6a6c0ad27726",
+                "62209b9a534a6a6c0ad2772b",
+                "62209ba8534a6a6c0ad27730"
+            ],
+            "Id": "613f5b3557d93547a0c8d122",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "643_CL_ETC_MBM_FábricaHarinasCamporrobles",
+            "PathProjectServer": "",
+            "Nombre": "643_CL_ETC_MBM_FábricaHarinasCamporrobles",
+            "Descripcion": "REHABILITACIÓN FÁBRICA DE HARINAS MUSEO, BIBLIOTECA Y ESPACIOS DE CO-WORKING",
+            "CodigoCliente": "643",
+            "CodigoContratista": "643",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "614470c28568f52ddb572395",
+                "6012931d72611978c8e1c02e",
+                "602540b38049c84725f4f056",
+                "60bf48dca305671ddfd0a6f3",
+                "60901feca27b42d4cd87386d"
+            ],
+            "PathLogos": [
+                "643_harinas.png"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787"
+            ],
+            "TablesIfcIds": [],
+            "Id": "6144714f8568f52ddb572397",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "654_IDE_UPVPilotActions-IMIP",
+            "PathProjectServer": "",
+            "Nombre": "UPV-IMIP",
+            "Descripcion": "UPV_IMIP",
+            "CodigoCliente": "654",
+            "CodigoContratista": "UPV",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "614c1bc08568f52ddb572a2d",
+                "606f3a2e74459a95cd5799e5",
+                "606f251e74459a95cd5799b8"
+            ],
+            "PathLogos": [
+                "descarga.png"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "6148e4248568f52ddb5725f4",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "203",
+            "PathProjectServer": "",
+            "Nombre": "Robim",
+            "Descripcion": "Modelo ROBIM",
+            "CodigoCliente": "CDTI",
+            "CodigoContratista": "CDTI",
+            "Users": [
+                "602540b38049c84725f4f056",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "606f3a2e74459a95cd5799e5",
+                "613f6920e13a362eaf6d9521",
+                "60901feca27b42d4cd87386d"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "Pset_Robim",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "615572389d65652beb40d3be",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "647",
+            "PathProjectServer": "",
+            "Nombre": "647 EMAYA",
+            "Descripcion": "647 EMAYA",
+            "CodigoCliente": "EMY",
+            "CodigoContratista": "EMY",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "60901feca27b42d4cd87386d",
+                "617903b5c511fb16140d14b5",
+                "617903f0c511fb16140d14b6",
+                "61790421c511fb16140d14bb",
+                "61790461c511fb16140d14bc"
+            ],
+            "PathLogos": [
+                "emaya@x2.png"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [
+                "61975c621c482efb4baa0665"
+            ],
+            "Id": "6177fe63c511fb16140d0f2e",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "397",
+            "PathProjectServer": "",
+            "Nombre": "CORREOS",
+            "Descripcion": "CORREOS",
+            "CodigoCliente": "CTE",
+            "CodigoContratista": "CTE",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "60227c1b8049c84725f4f035"
+            ],
+            "PathLogos": [
+                "Сorreos-Logo-650x366.png"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "618943e2c511fb16140d32f7",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "685",
+            "PathProjectServer": "",
+            "Nombre": "IntegraciónBIM-GMAO-SIG",
+            "Descripcion": "685_DA_MTX_SFW_IntegracionBIM_GMAO",
+            "CodigoCliente": "MTX",
+            "CodigoContratista": "MTX",
+            "Users": [
+                "602540b38049c84725f4f056",
+                "602a8a3b1a2e811aeee61f59",
+                "606f3a2e74459a95cd5799e5",
+                "61e6a17ad10cac20f47e69d1",
+                "606f251e74459a95cd5799b8"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "61a504e11c482efb4baa15d3",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "ibim_434_borrador ",
+            "PathProjectServer": "",
+            "Nombre": "ibim_434_borrador ",
+            "Descripcion": "ibim_434_borrador ",
+            "CodigoCliente": "COB",
+            "CodigoContratista": "COB",
+            "Users": [
+                "60181887a72166d86aea218c",
+                "61309f54695b2b753d917e62",
+                "606f3a2e74459a95cd5799e5"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [
+                {
+                    "Param": "01_FGV_IDENT",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "02_FGV_MEDICIONES",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "05_FGV_OBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "08_FGV_SAP",
+                    "HtmlElement": "",
+                    "Visible": true
+                },
+                {
+                    "Param": "11_COBRA",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f784",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "61c1cd212f6551b3929bfe3e",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "695",
+            "PathProjectServer": "",
+            "Nombre": "FGV L9 Paso inferior Beniardá (Benidorm)",
+            "Descripcion": "FGV L9 Paso inferior Beniardá (Benidorm)",
+            "CodigoCliente": "COP",
+            "CodigoContratista": "COP",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "60e709735e360463b1ed1140",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "60901feca27b42d4cd87386d",
+                "61c45cbd274ba7310bd436a5"
+            ],
+            "PathLogos": [
+                "COPCISA_marco_azul.svg",
+                "vialobra.png"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "61c45062274ba7310bd435ea",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "611",
+            "PathProjectServer": "",
+            "Nombre": "Edificio Piloto Viviendas Valencia (pruebas)",
+            "Descripcion": "Edificio Piloto Viviendas Valencia (pruebas)",
+            "CodigoCliente": "IMB",
+            "CodigoContratista": "IMB",
+            "Users": [
+                "606f3a2e74459a95cd5799e5",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "602540b38049c84725f4f056",
+                "60901feca27b42d4cd87386d",
+                "60227c1b8049c84725f4f035",
+                "60e709735e360463b1ed1140"
+            ],
+            "PathLogos": [],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f766",
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76c",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f784",
+                "60819b8ea23cb2000460f787",
+                "60819b8ea23cb2000460f78a",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "621c88662833dd9ff37765a7",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "602_Pruebas",
+            "PathProjectServer": "",
+            "Nombre": "602_CL_BVA_HIS_HBIMcastilloXivert_Pruebas",
+            "Descripcion": "Asistencia técnica redacción Plan Director conservación y uso público Castillo de Xivert",
+            "CodigoCliente": "DIP-CASTELLON",
+            "CodigoContratista": "DIP-CASTELLON",
+            "Users": [
+                "602a8a3b1a2e811aeee61f59",
+                "606f3a2e74459a95cd5799e5",
+                "602540b38049c84725f4f056",
+                "60901feca27b42d4cd87386d",
+                "60227c1b8049c84725f4f035",
+                "609bc35083200906c3bc4c9d",
+                "612c8fea695b2b753d91705c",
+                "60e709735e360463b1ed1140",
+                "61f26b7c1d767e209454de5a",
+                "61fd0f151d767e209454eff3"
+            ],
+            "PathLogos": [
+                "logo-diputacion-castellon-2018.jpg",
+                "logo-ute-ibim-balaguer.jpg"
+            ],
+            "ConfigParameters": [],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f781",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb"
+            ],
+            "TablesIfcIds": [],
+            "Id": "621ccb15534a6a6c0ad273ba",
+            "IsActive": true
+        },
+        {
+            "CollectionName": "ProyectosIfc",
+            "CodigoProyecto": "712",
+            "PathProjectServer": "",
+            "Nombre": "712_FR_CGI_MTB_CursoOnLineMetodologíaBIM",
+            "Descripcion": "712_FR_CGI_MTB_CursoOnLineMetodologíaBIM",
+            "CodigoCliente": "CGI",
+            "CodigoContratista": "CGI",
+            "Users": [
+                "602540b38049c84725f4f056",
+                "602a8a3b1a2e811aeee61f59",
+                "606f251e74459a95cd5799b8",
+                "606f3a2e74459a95cd5799e5",
+                "613f6920e13a362eaf6d9521",
+                "60e709735e360463b1ed1140",
+                "60901feca27b42d4cd87386d",
+                "623a01d0077718c4b0ebcbea"
+            ],
+            "PathLogos": [
+                "logo_cg_ing_industriales.jpg"
+            ],
+            "ConfigParameters": [
+                {
+                    "Param": "GMAO_Properties",
+                    "HtmlElement": "",
+                    "Visible": true
+                }
+            ],
+            "WebAppModulesIds": [
+                "60819b8ea23cb2000460f769",
+                "60819b8ea23cb2000460f76f",
+                "60819b8ea23cb2000460f772",
+                "60819b8ea23cb2000460f775",
+                "60819b8ea23cb2000460f778",
+                "60819b8ea23cb2000460f77b",
+                "60819b8ea23cb2000460f77e",
+                "60819b8ea23cb2000460f787",
+                "609bea2f324c62523c5b22bb",
+                "60c9b91edc124c5bc0eb603d"
+            ],
+            "TablesIfcIds": [],
+            "Id": "6229cebd8c4e89058908f531",
+            "IsActive": true
+        }
+    ]
+}

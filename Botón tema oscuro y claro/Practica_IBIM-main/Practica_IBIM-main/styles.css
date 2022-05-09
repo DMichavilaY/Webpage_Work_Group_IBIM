@@ -1,0 +1,41 @@
+
+#project-panel mmc-card{
+    display: inline-block;
+    width: 500px
+}
+.logo{
+    width: 50px;
+    
+}
+.name{
+    width: 75;
+
+}
+.code{
+    width: 50px;
+
+}
+.description{
+    width: 300px;
+
+}
+h4{
+    color: #000000;
+}
+.oscuro{ 
+    background-color: #1f1f1f; 
+    color: #f1eded; 
+  }
+   
+.claro{ 
+    background-color: #ffffff; 
+    color: #000000; 
+  } 
+   
+  p {
+    text-align:start ;
+  }
+
+.btndark{
+    text-align: right;
+}
