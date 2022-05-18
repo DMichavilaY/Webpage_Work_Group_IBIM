@@ -11,37 +11,24 @@
     <title>IBIM</title>
 </head>
 <body>
+    <img src="images/Logo_IBIM.png">
     <header>
-        <nav class="navbar navbar-light bg-light">
-            <h4>Projects</h4>
-            <span class="navbar-brand mb-0 h1">Navbar</span>
-            <button type="button" class="btndark" onclick="cambiarModo();">Claro / Oscuro</button> 
-            <button type="button" class="btnreset" onclick="resetear();">Resetear</button>
-        </nav>
-    </header>
-    
-    <div id="project-panel">       
-  <!--   <div id="table">
-        <table class="table">
-            <thead>
-                <tr >
-                    <th class="logo">Logo</th>
-                    <th class="code">Código</th>
-                    <th class="name">Nombre</th>
-                    <th class="description">Descripción</th>  
-                </tr> 
-            </thead>
-            <tbody id="tableBody"> -->
-
-            </tbody>
-        </table>
-        <nav >
+        <div>
+            <div class="item"><button type="button" class="btndark" onclick="cambiarModo();">Claro / Oscuro</button></div> 
+            <div class="item1"><button type="button" class="btnreset" onclick="resetear();">Resetear</button></div>
+        </div>
+    </header> 
+    <div class="container mt-4">
+        <input type="text" id="buscador">
+        <button class="btn btn-info mb-1" id="boton">Buscar</button>
+        <ul id="resultado">
+            
+        </ul>
+    </div>
+    <div id="project-panel">      
+        <nav>
             <ul>
-                <li>
-                    <input type="text" id="buscador" placeholder="Buscar..."
-                </li>
-
-                <a href="">
+                <a href="project.html">
                 <li>
                     <div class="barra"></div>
                     <p class="menu">Proyectos</p>
@@ -65,7 +52,16 @@
             </ul>
         </nav>
     </div>
-
+    <section class="paginacion">
+        <ul>
+            <li><a href="pagina1.html" class="active">1</a></li>
+            <li><a href="pagina2.html">2</a></li>
+            <li><a href="pagina3.html">3</a></li>
+            <li><a href="pagina4.html">4</a></li>
+            <li><a href="pagina5.html">5</a></li>
+        </ul>
+    </section>
     <script src="Javascript/dataResponse.js"></script>
+    <script src="Javascript/scriptbuscar.js"></script>
 </body>
 </html>

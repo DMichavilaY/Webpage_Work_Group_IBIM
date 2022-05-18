@@ -10,10 +10,11 @@ nav{
     width: 160px;
     height: 500%;
     background-color: #2d2d2d;
+    padding: auto;
 }
 
 ul{
-    margin-top: 150px;
+    margin-top: 100px;
     list-style: none;
     display: block;
 }
@@ -52,26 +53,17 @@ li:hover div.barra{
 
 input#buscador{
     width: 300px;
-    height:50px;
+    height:40px;
     background-color: #3c3c3c;
     outline: none;
     border:0px;
     color:white;
     font-size: 1.2em;
-    text-align: right;
-    padding-right:55px;
-    background-image: url(../Practica_IBIM-main/images/search-1754133-1493246.png);
-    background-repeat: no-repeat;
-    background-position: 4px 6px;
+    text-align: left;
+    padding: left 300px;
+    background-position: 30px 6px;
     background-size: 40px;
     transition: background-position .2s;
-}
-
-input.placeholder{
-    color: #e2e2e2;
-    text-align: right;
-    opacity: .1;
-    font-size: 0,2em;
 }
 
 li:hover p.menu{
@@ -112,9 +104,58 @@ h4{
   } 
    
   p {
-    text-align:start ;
+    text-align:left ;
   }
 
 .btndark{
     text-align: right;
+}
+
+nav.navbar navbar-light bg-light{
+    text-align: center;
+    padding: auto;
+    padding-right: 0px;
+}
+
+.item {
+    position: relative;
+    float:right;
+    padding-right: 10px;
+}
+
+.item1 {
+    position: relative;
+    float:right;
+    padding-right: 20px;
+}
+
+.paginacion {
+	margin:20px 0;
+}
+
+.paginacion ul {
+	list-style:none;
+	text-align: center;
+}
+
+.paginacion ul li {
+	display:inline-block;
+	margin-right:10px;
+}
+
+.paginacion ul li a {
+	display:block;
+	padding:10px 20px;
+	color:#fff;
+	background:#024959;
+	text-decoration: none;
+}
+
+.paginacion ul li a:hover {
+	background:#037E8C;
+}
+
+.paginacion ul li .active {
+	background:#037E8C;
+	font-weight:bold;
 }

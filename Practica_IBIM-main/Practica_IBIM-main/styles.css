@@ -1,0 +1,140 @@
+
+:root {
+    --nav-left-width: 260x;
+    --radius: 5px;
+
+    --primary-color: #d7d7d7;
+    --secondary-color: #d7d7d7;
+    --primary-background-color:  #d7d7d7;
+    --secondary-background-color: #d7d7d7;
+  }
+
+#project-panel mmc-card{
+    display:inline-block;   
+}
+
+#tableProject{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+}
+#tableProject thead tr{
+    background: aliceblue;
+}
+#tableProject tbody tr{
+    position: relative;
+}
+#tableProject thead tr, #tableProject tbody tr{
+    border-bottom: 1px solid #efefef;
+}
+#tableProject td{
+    
+}
+
+#tableProject th.logo{}
+#tableProject th.code{}
+#tableProject th.name{}
+#tableProject th.description{}
+
+#tableProject td.logo{
+}
+#tableProject td.logo img{ 
+        width: auto;
+        height: auto;
+        max-height: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        display: flex;
+}
+#tableProject td.code{}
+#tableProject td.name{}
+#tableProject td.description{}
+#tableProject th{
+    
+}
+#tableProject td, #tableProject th{
+    height: 30px;
+    width: 20%;
+}
+
+
+
+
+.logo{
+   
+            
+}
+.name{
+    width: 75;
+
+}
+.code{
+    width: 50px;
+
+}
+.description{
+    width: 300px;
+
+} 
+
+nav.navbar{
+    padding: 1rem;
+    border-color: var(--primary-color);
+        
+}
+
+.seach-btn{
+    border: none;
+    box-shadow: 0px 0px 5px var(--primary-color);
+    outline: none;
+}
+button.seach-btn:focus{
+    border: 1px solid var(--primary-color) !important   ;
+    border-color: var(--primary-color) !important   ;
+}
+
+.radius{
+    border-radius: var(--radius);
+}
+
+.navbar > div.left-nav{
+    width: calc(100% - var(--nav-left-width));
+}
+
+.navbar > div.right-nav{
+    width: var(--nav-left-width);
+}
+
+
+table {
+    border-collapse: collapse ;
+}
+td, th {
+    border: 1px solid gray ;
+    padding: 2px
+}
+
+
+div.actionPanel{
+    display: flex;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: white;
+    width: 165px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    
+}
+
+div.actionPanel i{
+    cursor: pointer;
+    
+}
+
+div.actionPanel i:hover{
+    background-color: aliceblue;    
+    padding: 2px;
+}
